@@ -1,0 +1,6 @@
+{
+  "name": "CipherLab — Classical Cryptography Toolkit",
+  "description": "An interactive tactile laboratory for classical ciphers, frequency cryptanalysis, shift rotors, and educational encryption systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
